@@ -2,96 +2,95 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Giovanni Duca
+    - name: Email
+      value: <a href="mailto:gduca.professional@pm.me">gduca.professional@pm.me</a>
+    - name: Other
+      value: <a href="https://www.linkedin.com/in/giovanniduca13">LinkedIn</a>, <a href="https://github.com/r3lativo">GitHub</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc. in Cognitive Sciences
+      institution: University of Trento, CIMeC
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Computational and theoretical modelling of Language and Cognition"
+        - title: Key Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Computational and theoretical modelling of Language and Cognition
+            - "Machine Learning: understanding of main architectures and algorithms; explainability"
+            - "NLP: enabling computers to encode human language"
+            - "Cognitive Neuroscience: human perception and cognition; comparison with computational models"
+            - "Multimodality: enhanced representations of concepts (focus on vision)"
+    - title: B.A. in Comparative Languages and Cultures
+      institution: Orientale University of Naples
+      year: 2018 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - "Discourse Analysis: critical abilities on texts (papers, movies, social media, etc.)"
+        - "Cultures and Society: in-depth knowledge of eastern-western cultural differences"
+        - "Comparative Literature: intertextual analysis and applied critical thinking of literatures"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Inria, <a href="https://almanach.inria.fr/">ALMAnaCH Team</a>, Paris, France
+      year: 2025-03 - 2025-07
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Enhance conversational grounding in dialogue systems, improving interaction by dynamically adapting to user comprehension via Reinforcement Learning.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+# - title: Publications
+#   type: time_table
+#   contents:
+#     - title: "MLLMs Construction Company: Investigating Multimodal LLMs’ Communicative Skills in a Collaborative Building Task"
+#       institution: "CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics"
+#       year: 2025-09
+#       description:
+#         - "Authors: Marika Sarzotti, <b>Giovanni Duca</b>, Chris Madge, Raffaella Bernardi, Massimo Poesio"
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+# - title: Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/xMakaco/pythia4syllo">pythia4syllo</a>
+#       description:
+#         - Probe an open source LLM (Pythia) with simple syllogisms to check understanding.
+#     - title: Unsupervised Federated Learning
+#       description:
+#         - Integrated with the SimSiam method for privacy-preserving deep learning.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Certifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://courses.edx.org/certificates/37b937e21dfa4fadbe02a3834df7e968">CS50x - Introduction to Computer Science (HarvardX)</a>
+        - IELTS - C1 Academic, 8.0 Overall
+    - year: 2021
       items:
-        - Max Planck Medal
+        - Apple Foundation Program
 
-- title: Academic Interests
+- title: Skills & Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Programming
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "<b>Languages:</b> C, Python, Swift"
+        - "<b>Tools & Frameworks:</b> PyTorch, Git, Slurm"
+        - "<b>Web & Database:</b> HTML, CSS, SQLite"
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - "Italian (Native)"
+        - "English (C1 fluent)"
+        - "Spanish (medium)"
+        - "French (medium)"
+        - "Japanese (basic)"
+    - title: Soft Skills
+      items:
+        - Roadmap-setting
+        - Leadership
+        - Pressure-handling
+        - Great communication
+    - title: Volunteering
+      items:
+        - Promoting collaborative learning environments as a tutor and student representative.
