@@ -2,6 +2,11 @@
 # the commented lines are the default social media links supported by the template
 # the socials will be displayed in the order they are defined here
 
+email: gduca.professional@pm.me # your email address
+github_username: r3lativo # your GitHub user name
+linkedin_username: giovanniduca13 # your LinkedIn user name
+
+
 # academia_edu:  your organization and your username Ex. https://organization.academia.edu/UserName
 #  organization: princeton # your organization as appears in the subdomain
 #  username:  AlbertEinstein # your username
@@ -10,10 +15,10 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: gduca.professional@pm.me # your email address
+# email: # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: r3lativo # your GitHub user name
+# github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -21,10 +26,10 @@ github_username: r3lativo # your GitHub user name
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
-lastfm_id: R3lativo # your lastfm id
+# lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: giovanniduca13 # your LinkedIn user name
+# linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID

@@ -1,4 +1,17 @@
 {% capture footer_contents %}
+
+  <!-- Social START -->
+    <div class="social">
+      <div class="contact-icons">{% include social.liquid %}</div>
+
+      <div class="contact-note">{{ site.contact_note }}</div>
+    </div>
+
+  {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
+    {% include newsletter.liquid center=true %}
+  {% endif %}
+  <!-- Social END -->
+
   &copy; Copyright {{ site.time | date: '%Y' }}
   {{ site.first_name }}
   {{ site.middle_name }}
