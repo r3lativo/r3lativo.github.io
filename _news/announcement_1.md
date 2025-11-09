@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are presenting our work at CLiC-iT in Cagliari!
+We are presenting our work at [CLiC-iT](https://clic2025.unica.it/) in Cagliari!

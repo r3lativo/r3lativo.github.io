@@ -30,10 +30,13 @@ latest_posts:
 
 Ciao! I'm Giovanni.
 
-I'm a Cognitive Science Master's student at the University of Trento (CIMeC), currently writing my Master's thesis with the ALMAnaCH team at Inria in Paris.
+I'm a Cognitive Science Master's student at the University of Trento ([CIMeC](https://www.cimec.unitn.it/en)), currently writing my Master's thesis with the [ALMAnaCH](https://almanach.inria.fr) team at Inria in Paris, in [ArticuLab](https://www.justinecassell.com/articulab/).
 
 My work focuses on how to make AI more cooperative and context-aware. I'm particularly interested in building dialogue systems that can dynamically ground their conversations to improve human-computer interaction. My approach is grounded in a deep interest in linguistics and how culture shapes communication—a perspective I developed during my B.A. in Comparative Languages. I'm also passionate about privacy, ethics, and their implications in our rapidly developing digital world.
 
-**I'm actively seeking PhD or Research Engineer positions focused on a central challenge: How do we build AI that is both a robust, perceptually-grounded reasoner and a truly collaborative, pragmatic partner, while ensuring its architecture is transparent, fair, and socially accountable?**
+*I'm actively seeking PhD or Research Engineer positions around various questions:*
+- How do we build AI that is a **perceptually-grounded reasoner**?
+- How to make it a **truly collaborative, pragmatic partner**?
+- How can we ensure its **architecture is transparent, fair, and socially accountable**?
 
 Outside of my research, you'll probably find me enjoying a film, talking about the last book I read, or heading out for a hike.
