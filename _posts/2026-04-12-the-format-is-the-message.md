@@ -5,6 +5,7 @@ date: 2026-04-12 10:00:00+0200
 description: On how academic formatting tricks both humans and language models into believing misinformation.
 tags: [NLP, misinformation, LLMs]
 categories: research
+lang: en
 ---
 
 In early 2024, Almira Osmanovic Thunström uploaded two fake preprints to an academic repository under an alias. They described a fictional eye condition called bixonimania, attributed to a made-up researcher at a non-existent university. The papers explicitly said they were fake — one acknowledgements section thanked "Professor Sideshow Bob at Starfleet Academy", another stated outright that "this entire paper is made up". Within weeks, Copilot, Gemini, Perplexity, and ChatGPT were all describing bixonimania as a real disease. One of the fake papers was subsequently cited in a peer-reviewed journal article, which was later retracted.

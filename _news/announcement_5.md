@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [ALMAnaCH](https://almanach.inria.fr) at Inria Paris as a Research Engineer, working with [Djamé Seddah](https://almanach.inria.fr/people/djame_seddah/) on computational propaganda.
+Re-joined ALMAnaCH as a Research Engineer, working with [Djamé Seddah](https://dseddah.github.io/).
