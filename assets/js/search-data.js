@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "news-started-my-research-internship-at-articulab-within-the-almanach-team-at-inria-paris",
           title: 'Started my research internship at ArticuLab within the ALMAnaCH team at Inria Paris....',
           description: "",
