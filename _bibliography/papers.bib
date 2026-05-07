@@ -1,28 +1,47 @@
 ---
 ---
 
+@misc{mohapatra-duca-2026-machine,
+    title = "Using Machine Mental Imagery for Representing Common Ground in Situated Dialogue",
+    author = "Mohapatra,* Biswesh and
+      Duca,* Giovanni and
+      Romary, Laurent and
+      Cassell, Justine",
+    year = "2026",
+    month = apr,
+    arxiv = "2604.21144",
+    url = "https://arxiv.org/abs/2604.21144",
+    pdf = "https://arxiv.org/pdf/2604.21144",
+    abstract = "Situated dialogue requires speakers to maintain a reliable representation of shared context rather than reasoning only over isolated utterances. Current conversational agents often struggle with this requirement, especially when the common ground must be preserved beyond the immediate context window. In such settings, fine-grained distinctions are frequently compressed into purely textual representations, leading to a critical failure mode we call representational blur, in which similar but distinct entities collapse into interchangeable descriptions. This semantic flattening creates an illusion of grounding, where agents appear locally coherent but fail to track shared context persistently over time. Inspired by the role of mental imagery in human reasoning, and based on the increased availability of multimodal models, we explore whether conversational agents can be given an analogous ability to construct some depictive intermediate representations during dialogue to address these limitations. Thus, we introduce an active visual scaffolding framework that incrementally converts dialogue state into a persistent visual history that can later be retrieved for grounded response generation. Evaluation on the IndiRef benchmark shows that incremental externalization itself improves over full-dialog reasoning, while visual scaffolding provides additional gains by reducing representational blur and enforcing concrete scene commitments. At the same time, textual representations remain advantageous for non-depictable information, and a hybrid multimodal setting yields the best overall performance. Together, these findings suggest that conversational agents benefit from an explicitly multimodal representation of common ground that integrates depictive and propositional information.",
+    note = {* Shared first authorship. Under review.},
+    bibtex_show = true,
+}
+
 @inproceedings{mohapatra-etal-2026-frame,
     title = "Frame of Reference: Addressing the Challenges of Common Ground Representation in Situational Dialogs",
     author = "Mohapatra, Biswesh  and
-      Charlot, Th{\'e}o  and
-      Duca, Giovanni  and
-      Palan, Mayank  and
+      Charlot,* Th{\'e}o  and
+      Duca,* Giovanni  and
+      Palan,* Mayank  and
       Romary, Laurent  and
       Cassell, Justine",
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2026",
     month = jul,
     year = "2026",
+    abstract = {Common ground plays a critical role in situated spoken dialogs, where interlocutors must establish and maintain shared references to entities, events, and relations to sustain coherent interaction in a shared space and over time. With the increasing presence of embodied conversational agents and social robots, the ability to correctly ground this kind of conversational content in order to refer back later also becomes important for dialog systems. Prior studies have demonstrated that LLMs are capable of performing certain grounding acts like acknowledgments. However, relatively little work has investigated their capacity to leverage the grounded information, like in complex scenarios involving space and time (e.g., "let's go to that café near the park we went to yesterday"). To that end, in this work, we evaluate a model's ability to establish common ground by utilizing these "relational references" in the dynamic and shared environments of situated dialogs. We then test multiple methods for representing common ground and further propose approaches to improve their performance by using reinforcement learning on our synthetically generated dialog data},
     publisher = "Association for Computational Linguistics",
     arxiv = "2601.09365",
+    url = "https://arxiv.org/abs/2601.09365",
+    pdf = "https://arxiv.org/pdf/2601.09365",
     abbr = {ACL},
     bibtex_show = true,
-    note = "To appear",
+    note = {* Equal contribution. To appear.},
 }
 
 @inproceedings{sarzotti-etal-2025-mllms,
     title = "{MLLM}s Construction Company: Investigating Multimodal {LLM}s' Communicative Skills in a Collaborative Building Task",
-    author = "Sarzotti, Marika  and
-      Duca, Giovanni  and
+    author = "Sarzotti,* Marika  and
+      Duca,* Giovanni  and
       Madge, Chris  and
       Bernardi, Raffaella  and
       Poesio, Massimo",
@@ -33,6 +52,7 @@
     booktitle = "Proceedings of the Eleventh Italian Conference on Computational Linguistics (CLiC-it 2025)",
     month = sep,
     year = "2025",
+    abstract = {How effective are the communication choices of Multimodal Large Language Models when pursuing a common goal? Can they make use of common human dialogical patterns? We address these questions by engaging two agents based on the Mistral model in a collaborative building task, where one has to instruct the other how to build a specific target structure. The aim of this work is to investigate whether different prompting techniques with varying degrees of multimodality can influence the performance of MLLM-based agents in the proposed task. Code and data available in the project's GitHub repository.},
     address = "Cagliari, Italy",
     publisher = "CEUR Workshop Proceedings",
     url = "https://aclanthology.org/2025.clicit-1.97/",
@@ -41,4 +61,5 @@
     ISBN = "979-12-243-0587-3",
     additional_info={. [Code and data](https://github.com/r3lativo/MLLMs-construction-company/tree/restructure/)},
     bibtex_show = true,
+    note = {* Shared first authorship.},
 }
